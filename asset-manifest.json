@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hotel-grand/static/css/main.24183893.css",
+    "main.js": "/hotel-grand/static/js/main.3d0759f7.js",
+    "static/js/787.3377b723.chunk.js": "/hotel-grand/static/js/787.3377b723.chunk.js",
+    "static/media/Screenshot-2019-05-01-at-13.07.45.webp": "/hotel-grand/static/media/Screenshot-2019-05-01-at-13.07.45.7efe2c11cf624b1fa71b.webp",
+    "static/media/sheader.jpg": "/hotel-grand/static/media/sheader.3af9f1deabb23366ccef.jpg",
+    "static/media/revicons.eot": "/hotel-grand/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/hotel-grand/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/hotel-grand/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/hotel-grand/index.html",
+    "main.24183893.css.map": "/hotel-grand/static/css/main.24183893.css.map",
+    "main.3d0759f7.js.map": "/hotel-grand/static/js/main.3d0759f7.js.map",
+    "787.3377b723.chunk.js.map": "/hotel-grand/static/js/787.3377b723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24183893.css",
+    "static/js/main.3d0759f7.js"
+  ]
+}
